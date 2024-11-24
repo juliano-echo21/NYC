@@ -34,8 +34,6 @@ Este proyecto está diseñado para que los estudiantes puedan trabajar con datos
   
 - **Databricks**: Plataforma que proporciona un entorno colaborativo para trabajar con Apache Spark. Permite ejecutar código en un clúster de Spark, facilitando el análisis de datos a gran escala y la construcción de modelos.
 
-- **CRISP-DM**: Metodología estándar utilizada para el desarrollo de proyectos de minería de datos, que guiará al estudiante a través de todas las fases del proyecto, desde la comprensión del negocio hasta el despliegue de los resultados.
-
 ## Pasos para Ejecutar el Proyecto
 
 1. **Acceder a Databricks**: 
@@ -57,11 +55,6 @@ Este proyecto está diseñado para que los estudiantes puedan trabajar con datos
 5. **Presentación de Resultados**: 
    - Genera reportes que resuman los hallazgos y muestra los resultados de manera comprensible y útil para los interesados.
 
-## Requisitos Previos
-
-- Conocimientos básicos en Python y manejo de librerías como Pandas y PySpark.
-- Familiaridad con conceptos de Big Data y procesamiento de datos.
-- Conocimiento básico de machine learning y evaluación de modelos.
 
 ## Conclusión
 
